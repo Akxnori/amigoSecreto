@@ -28,3 +28,13 @@ Este é um projeto simples de *Amigo Secreto, onde você pode adicionar os nomes
 - *JavaScript*: Para implementar a funcionalidade de adicionar amigos e sortear o amigo secreto de maneira interativa.
 
 ---
+
+## Como Usar
+
+1. *Clone o repositório* ou faça o download do projeto.
+2. *Abra o arquivo index.html* em seu navegador.
+3. *Adicione amigos* digitando seus nomes no campo de entrada e clicando em "Adicionar".
+4. Após adicionar pelo menos um amigo, *clique em "Sortear amigo"* para sortear um amigo secreto.
+5. O *resultado do sorteio* aparecerá na parte inferior da página.
+
+---
