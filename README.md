@@ -1,4 +1,7 @@
-https://img.shields.io/badge/release_date-march_-blue                                            https://img.shields.io/badge/_version-1.0_-yellow
+<img alt="Static Badge" src="https://img.shields.io/badge/release_date-march_-blue%20%20%20">       <img alt="Static Badge" src="https://img.shields.io/badge/%20_version-1.0_-yellow">
+
+                                                                                                   
+
 
 
 # Amigo Secreto - Aplicação Web
