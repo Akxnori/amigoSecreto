@@ -4,20 +4,20 @@
 
 
 
-# Amigo Secreto - Aplicação Web
+# Amigo Secreto — Aplicação Web Interativa
 
 ## Descrição
 
-Este é um projeto simples de *Amigo Secreto, onde você pode adicionar os nomes de seus amigos e sortear um amigo secreto aleatoriamente. A aplicação foi feita utilizando **HTML, **CSS* e *JavaScript*. Ela permite que você adicione os nomes dos amigos à lista e, ao clicar em um botão, o sistema sorteia um amigo secreto.
+Aplicação web simples desenvolvida para simular o sorteio de amigo secreto, permitindo a adição dinâmica de participantes e seleção aleatória de um nome.
 
 ---
 
 ## Funcionalidades
 
-- *Adicionar amigos*: Insira os nomes dos amigos na lista através do campo de texto e clique em "Adicionar".
-- *Sortear amigo secreto*: Após adicionar amigos à lista, clique em "Sortear amigo" para escolher aleatoriamente um amigo secreto.
-- *Visualização da lista*: Todos os amigos adicionados serão listados na tela.
-- *Resultado do sorteio*: Exibe o nome do amigo sorteado.
+- *Adição dinâmica de participantes via interface.*
+- *Listagem em tempo real dos nomes inseridos*.
+- *Sorteio aleatório de um participante.*
+- *Atualização imediata do resultado na interface.*
 
 ---
 
